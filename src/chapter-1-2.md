@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Healthcare
-====================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving diagnosis, treatment, and patient outcomes. AI is a broad field that encompasses a range of technologies and approaches, including machine learning, natural language processing, robotics, and computer vision.
 

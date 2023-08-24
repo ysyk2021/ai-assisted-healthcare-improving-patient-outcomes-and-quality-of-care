@@ -1,5 +1,3 @@
-Applications of AI in Patient Monitoring and Management
-=======================================================
 
 Patient monitoring and management is a critical aspect of healthcare delivery, particularly for individuals with chronic conditions who require ongoing care. Artificial intelligence (AI) has the potential to transform patient monitoring and management by providing real-time monitoring, decision-making support, personalized care, and remote access to care. In this chapter, we will explore some of the key applications of AI in patient monitoring and management.
 

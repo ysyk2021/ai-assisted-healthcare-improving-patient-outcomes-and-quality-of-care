@@ -1,5 +1,3 @@
-Traditional Approaches to Healthcare
-=========================================================================
 
 Traditional approaches to healthcare have been developed over centuries of medical practice and research. These approaches include the use of medications, surgery, physical therapy, and other interventions to treat illness and improve patient outcomes. In this chapter, we will explore some of the key features of traditional healthcare approaches.
 

@@ -1,5 +1,3 @@
-Overview of AI Applications in Diagnosis and Treatment
-=================================================================================================================
 
 Artificial intelligence (AI) is revolutionizing the field of healthcare, with applications ranging from diagnosis and treatment to drug discovery and personalized medicine. In this chapter, we will focus on the applications of AI in diagnosis and treatment and provide an overview of the different ways that AI is being used to improve patient outcomes and quality of care.
 

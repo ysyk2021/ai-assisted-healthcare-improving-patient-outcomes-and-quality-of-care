@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Healthcare
-============================================================================================================
 
 Artificial intelligence (AI) is a broad field that encompasses a range of technologies and approaches. In this chapter, we will explore some of the different types of AI and their applications in healthcare.
 

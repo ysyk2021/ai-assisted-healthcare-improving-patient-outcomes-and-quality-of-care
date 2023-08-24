@@ -1,5 +1,3 @@
-Ethical Considerations
-======================
 
 As with any application of technology in healthcare, the use of artificial intelligence (AI) raises a number of ethical considerations that must be carefully addressed. In this chapter, we will explore some of the key ethical issues associated with the use of AI in healthcare and discuss best practices for ensuring ethical and responsible AI in healthcare.
 

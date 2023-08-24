@@ -1,5 +1,3 @@
-Artificial Intelligence in Healthcare
-=====================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving diagnosis, treatment, and patient outcomes. In this chapter, we will explore the types of AI used in healthcare, their advantages and limitations, and case studies on their use.
 

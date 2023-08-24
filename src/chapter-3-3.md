@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Healthcare
-==================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving diagnosis, treatment, and patient outcomes. In this chapter, we will explore several case studies that demonstrate the use of AI in healthcare.
 

@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Healthcare
-=====================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving diagnosis, treatment, and patient outcomes. However, there are both advantages and limitations of using AI in healthcare that must be carefully considered.
 

@@ -1,5 +1,3 @@
-Overview of AI Applications in Patient Monitoring and Management
-=========================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving diagnosis, treatment, and patient outcomes. One area where AI is already making a significant impact is in patient monitoring and management. In this chapter, we will provide an overview of some of the key applications of AI in patient monitoring and management.
 

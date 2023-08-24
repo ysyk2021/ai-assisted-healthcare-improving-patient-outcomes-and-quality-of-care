@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Healthcare
-==============================================================================================
 
 Artificial intelligence (AI) has enormous potential to improve patient outcomes and quality of care in healthcare. However, there are also significant ethical issues associated with the use of these technologies. In this chapter, we will explore some of the key ethical issues related to AI in healthcare.
 

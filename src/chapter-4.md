@@ -1,5 +1,3 @@
-Applications of AI in Diagnosis and Treatment
-=============================================
 
 Artificial intelligence (AI) has the potential to transform healthcare delivery by improving diagnosis, treatment, and patient outcomes. In this chapter, we will explore some of the key applications of AI in diagnosis and treatment.
 

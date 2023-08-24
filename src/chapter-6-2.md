@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Healthcare
-========================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving patient outcomes and quality of care. However, as with any new technology, it is important to consider the ethical implications of using AI in healthcare. In this chapter, we will discuss best practices for ensuring ethical and responsible use of AI in healthcare.
 

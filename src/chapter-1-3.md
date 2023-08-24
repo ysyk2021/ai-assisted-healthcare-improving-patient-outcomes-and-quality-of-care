@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-==================================================
 
 The use of artificial intelligence (AI) in healthcare has the potential to revolutionize the way we diagnose, treat, and manage patient care. The objective of this book is to explore the different applications of AI in healthcare, as well as the ethical considerations and challenges associated with its use.
 

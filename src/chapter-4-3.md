@@ -1,5 +1,3 @@
-Clinical Decision Support Systems
-============================================================================================
 
 One of the key applications of artificial intelligence (AI) in healthcare is clinical decision support systems (CDSS). CDSS use machine learning algorithms to analyze patient data, medical histories, and other information to generate recommendations for diagnosis and treatment. In this chapter, we will explore the benefits and challenges of using CDSS in healthcare.
 

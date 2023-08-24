@@ -1,5 +1,3 @@
-Medical Imaging and Radiology
-=====================================================================================
 
 In this chapter, we will examine the applications of artificial intelligence (AI) in medical imaging and radiology. Medical imaging plays a critical role in diagnosis and treatment planning for various medical conditions. AI has emerged as a promising tool to improve the accuracy, speed, and efficiency of medical imaging analysis, leading to better patient outcomes and quality of care.
 

@@ -1,5 +1,3 @@
-The Need for AI-Assisted Healthcare
-=================================================
 
 Healthcare is an essential part of modern society, providing crucial services to individuals and communities around the world. Despite significant advances in medical research and technology, however, healthcare faces a number of challenges, including rising costs, disparities in access and outcomes, and an increasing burden of chronic diseases.
 

@@ -1,5 +1,3 @@
-Understanding Healthcare Challenges
-===================================
 
 Despite significant advances in medical research and technology, healthcare continues to face a number of challenges. In this chapter, we will provide an overview of some of these challenges and explore traditional approaches to healthcare.
 
