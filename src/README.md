@@ -4,3 +4,7 @@ Artificial intelligence (AI) has been described as the new frontier in modern he
 This book provides a comprehensive understanding of how AI can be used to improve patient outcomes and deliver high-quality care in healthcare. It is intended for healthcare providers, policymakers, and other stakeholders who want to gain a better understanding of the field.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
